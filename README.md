@@ -22,11 +22,11 @@
 
 ## 🔍 Estrutura do Projeto
 
-/mario-game
-├── index.html    # Estrutura do jogo
-├── style.css     # Estilização do jogo
-├── script.js     # Lógica do jogo
-├── assets/       # Imagens e recursos
+- mario-game/
+- index.html ├──  # Estrutura do jogo/
+- style.css  ├──   # Estilização do jogo/
+- script.js  ├──   # Lógica do jogo/
+- assets     ├──   # Imagens e recursos
 
 ## 💻 Melhorias Futuras
 
